@@ -37,11 +37,5 @@
     <li>No external libraries are required as the project utilizes the Java DOM API for XML parsing.</li>
 </ul>
 
-<h2>Contributions</h2>
-<p>Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.</p>
-
-<h2>License</h2>
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>. Feel free to use, modify, and distribute it as per the terms of the license.</p>
-
 </body>
 </html>
