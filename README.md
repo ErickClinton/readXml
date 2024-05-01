@@ -3,11 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project ReadXml</title>
 </head>
 <body>
 
-<h1>Project README</h1>
+<h1>Project ReadXml</h1>
 
 <h2>Introduction</h2>
 <p>This project is a Java application for parsing an XML file named <code>person.xml</code> and extracting information from it. It utilizes the Java DOM API to read and process XML data.</p>
